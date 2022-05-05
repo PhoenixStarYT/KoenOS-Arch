@@ -20,6 +20,7 @@ sudo pacman --noconfirm -S lxappearance
 sudo pacman --noconfirm -S pulseaudio
 sudo pacman --noconfirm -S pavucontrol
 sudo pacman --noconfirm -S sddm
+sudo pacman --noconfirm -S rofi
 
 #Theming & Fonts
 paru --noconfirm -S xfce-theme-greybird
