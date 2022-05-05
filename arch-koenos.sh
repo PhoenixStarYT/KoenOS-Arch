@@ -28,3 +28,5 @@ mv ~/koenos-arch/dotconfig/* ~/.config
 rm .bashrc
 mv ~/koenos-arch/.bashrc ~/
 
+#Setup SDDM
+systemctl enable sddm
