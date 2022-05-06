@@ -26,7 +26,6 @@ sudo pacman --noconfirm -S rofi
 paru --noconfirm -S xfce-theme-greybird
 mv ~/koenos-arch/fonts/* ~/.fonts
 mv ~/koenos-arch/dotconfig/* ~/.config
-rm ~/.bashrc
 mv ~/koenos-arch/.bashrc ~/
 
 #Setup SDDM
