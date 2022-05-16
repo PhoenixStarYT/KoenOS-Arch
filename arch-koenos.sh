@@ -47,6 +47,8 @@ systemctl enable sddm
 
 #Theming & Fonts
 paru --noconfirm -S xfce-theme-greybird
+mkdir /.fonts
+mkdir /.config
 mv ~/koenos-arch/fonts/* ~/.fonts
 mv ~/koenos-arch/dotconfig/* ~/.config
 mv ~/koenos-arch/.bashrc
